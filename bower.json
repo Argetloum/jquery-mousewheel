@@ -11,6 +11,5 @@
     "test"
   ],
   "dependencies": {
-    "jquery": ">=1.2.2"
   }
 }

@@ -1,5 +1,15 @@
 # jQuery Mouse Wheel Plugin
 
+
+## The fork
+
+A little Fork of [jQuery-mousewheel](https://github.com/brandonaaron/jquery-mousewheel) developed by brandonaaron.
+
+The goal is to add touch compatibility.
+
+
+## Introduction
+
 A [jQuery](http://jquery.com/) plugin that adds cross-browser mouse wheel support with delta normalization.
 
 In order to use the plugin, simply bind the `mousewheel` event to an element.
